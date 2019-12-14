@@ -58,7 +58,7 @@ Provide appropriate paths for data files and parameters.
 
 # Contact
 
-If you face any problem in running this code, you can contact us at sarthika15170\[at\]iiitd\[dot\]ac\[dot\]in.
+If you face any problem in running this code, you can contact us at shivk.it.16@nsit.net.in
 
 # License
 
